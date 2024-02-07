@@ -12,6 +12,8 @@ body {
   background-attachment: fixed;
   background-color: black;
   color:white;
+  border-style: solid;
+  border-color: blue;
 }
 
 .center {
