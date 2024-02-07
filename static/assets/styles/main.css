@@ -576,6 +576,7 @@ footer {
   color: #fff;
   padding: 20px 0;
   margin-top: auto;
+  height:inherit;
 }
 
 .social-links {
