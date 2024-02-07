@@ -61,7 +61,7 @@ body {
   -webkit-backdrop-filter: var(--background-filter);
   backdrop-filter: var(--background-filter);
   border-style: solid;
-  border-color: blue;
+  border-color: #00e4b6;
   color: white;
 }
 
