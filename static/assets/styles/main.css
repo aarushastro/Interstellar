@@ -9,8 +9,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  background: rgb(17,239,6);
-  background: linear-gradient(0deg, rgba(17,239,6,1) 47%, rgba(13,255,0,1) 64%, rgba(0,255,89,1) 100%);  
+  background-color: black;
   color:white;
   border-style: solid;
   border-color: #00e4b6;
@@ -391,7 +390,7 @@ select {
 
 .title {
   font-size: 10vh;
-  color: darkgreen;
+  color: white;
   font-family: 'Inter', sans-serif;
   text-align: center;
   text-transform: uppercase;
