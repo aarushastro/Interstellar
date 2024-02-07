@@ -516,15 +516,6 @@ select {
   background-size: cover;
 }
 
-body {
-  margin: 0;
-  padding: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  background-color: #ADD8E6; /* Light blue background color */
-}
 
 .balloon-container {
   position: relative;
@@ -533,7 +524,7 @@ body {
 .balloon {
   width: 50px;
   height: 70px;
-  background-color: #FF69B4; /* Pink balloon color */
+  background-color: red;
   border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
   position: absolute;
   bottom: 0;
