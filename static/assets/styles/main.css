@@ -571,7 +571,10 @@ select {
 }
 
 footer {
-  margin-top: auto;
+  width: 100%;
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
 }
 
 .social-links {
@@ -590,4 +593,6 @@ footer {
   color: #0056b3;
 }
 
-
+.footer-text{
+  text-align:center;
+}
