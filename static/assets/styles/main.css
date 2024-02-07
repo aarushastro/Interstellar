@@ -4,7 +4,7 @@
 body {
   font-family: monospace;
   text-decoration: none;
-  background: var(--page);
+ 
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
