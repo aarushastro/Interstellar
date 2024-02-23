@@ -12,6 +12,7 @@ body {
   background-color: black;
   color:white;
   border-style: solid;
+  border-width: thick;
   border-color: #00e4b6;
 }
 
