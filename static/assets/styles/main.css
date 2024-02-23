@@ -9,7 +9,8 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  background-color: black;
+  background: rgb(61,0,255);
+  background: linear-gradient(180deg, rgba(61,0,255,0.9084370076155462) 0%, rgba(0,3,255,1) 38%, rgba(107,149,186,1) 100%);
   color:white;
   border-style: solid;
   border-width: thick;
